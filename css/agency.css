@@ -342,6 +342,12 @@ section h3.section-subheading {
 #portfolio .portfolio-item .portfolio-link .portfolio-hover .portfolio-hover-content h4 {
   margin: 0;
 }
+
+#videothumbnail{
+height: 50%;
+width: 50%;
+float: center;}
+
 #portfolio .portfolio-item .portfolio-caption {
   max-width: 400px;
   margin: 0 auto;
