@@ -240,6 +240,7 @@ header {
 header .intro-text {
   padding-top: 100px;
   padding-bottom: 50px;
+  color: black;
 }
 header .intro-text .intro-lead-in {
   font-family: "Droid Serif", "Helvetica Neue", Helvetica, Arial, sans-serif;
@@ -247,6 +248,7 @@ header .intro-text .intro-lead-in {
   font-size: 22px;
   line-height: 22px;
   margin-bottom: 25px;
+
 }
 header .intro-text .intro-heading {
   font-family: "Montserrat", "Helvetica Neue", Helvetica, Arial, sans-serif;
@@ -301,6 +303,7 @@ section h3.section-subheading {
 .service-heading {
   margin: 15px 0;
   text-transform: none;
+  color: black;
 }
 #portfolio .portfolio-item {
   margin: 0 0 15px;
